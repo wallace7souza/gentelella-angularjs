@@ -1,6 +1,6 @@
 # gentelella-angular
 
-Project based on bootstrap template 
+Project based on bootstrap template version 1.3.0
 https://github.com/puikinsh/gentelella
 
 I had migrated to angularjs 1.x with yeoman generator.
